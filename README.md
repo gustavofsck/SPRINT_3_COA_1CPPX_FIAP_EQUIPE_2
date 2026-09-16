@@ -11,6 +11,9 @@
 * Gustavo Martins Da Silva - 570584
 * Lucas Lino Marques da Silva - 572863
 
+# Link do projeto no WOKWI:
+**https://wokwi.com/projects/475252982557400065**
+
 
 O projeto consiste em um protótipo de controle inteligente de uma sessão de recarga, desenvolvido com Raspberry Pi Pico e MicroPython.
 O sistema simula os dados de geração e consumo de energia, calcula a potência disponível e determina o estado da recarga:
@@ -21,5 +24,3 @@ O repositório inclui o código-fonte em arquivos .py (Python) e o arquivo .json
 permitindo a execução e a compreensão do projeto. A solução demonstra a integração entre hardware, software,
 processamento de dados e dispositivos de entrada e saída, relacionando-se aos conceitos de Arquitetura de Computadores.
 
-**Link do projeto no WOKWI:**
-https://wokwi.com/projects/475252982557400065
