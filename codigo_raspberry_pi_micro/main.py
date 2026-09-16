@@ -133,10 +133,6 @@ def main():
         ultimo_tempo = agora
         intervalo_segundos = intervalo_ms / 1000
 
-        botao_decimal_bool = botao_decimal.value() == 0
-        botao_binario_bool = botao_binario.value() == 0
-        botao_hexdecimal_bool = botao_hexdecmal.value() == 0
-
         leitura_geracao = pot_tensao.read_u16()
         leitura_consumo = pot_consumo.read_u16()
 
