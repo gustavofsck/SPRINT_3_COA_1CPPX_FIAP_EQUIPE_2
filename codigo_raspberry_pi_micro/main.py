@@ -160,7 +160,6 @@ def main():
         print_to_lcd(energ_dis_str, 1, 1, False)
         estado_recarga = ""
 
-        #energia_disponivel *= 1000 #
         if energia_disponivel < 0:
 
             acender_led(led_vermelho)
