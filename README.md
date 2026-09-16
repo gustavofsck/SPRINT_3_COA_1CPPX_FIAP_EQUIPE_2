@@ -21,5 +21,5 @@ O repositório inclui o código-fonte em arquivos .py (Python) e o arquivo .json
 permitindo a execução e a compreensão do projeto. A solução demonstra a integração entre hardware, software,
 processamento de dados e dispositivos de entrada e saída, relacionando-se aos conceitos de Arquitetura de Computadores.
 
-**Link do projeto no WOWKI:**
+**Link do projeto no WOKWI:**
 https://wokwi.com/projects/475252982557400065
