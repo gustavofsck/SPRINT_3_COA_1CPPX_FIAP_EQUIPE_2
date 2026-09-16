@@ -14,7 +14,6 @@
 # Link do projeto no WOKWI:
 **https://wokwi.com/projects/475252982557400065**
 
-
 O projeto consiste em um protótipo de controle inteligente de uma sessão de recarga, desenvolvido com Raspberry Pi Pico e MicroPython.
 O sistema simula os dados de geração e consumo de energia, calcula a potência disponível e determina o estado da recarga:
 autorizada, reduzida ou bloqueada.
@@ -23,4 +22,10 @@ Cada situação é indicada pelos LEDs verde, amarelo e vermelho, enquanto as in
 O repositório inclui o código-fonte em arquivos .py (Python) e o arquivo .json da simulação no Wokwi,
 permitindo a execução e a compreensão do projeto. A solução demonstra a integração entre hardware, software,
 processamento de dados e dispositivos de entrada e saída, relacionando-se aos conceitos de Arquitetura de Computadores.
+
+
+# Vídeo de demonstração:
+
+
+https://github.com/user-attachments/assets/75332d68-7953-4c97-9c7e-05605d93184f
 
