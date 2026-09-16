@@ -12,3 +12,11 @@
 * Lucas Lino Marques da Silva - 572863
 
 
+O projeto consiste em um protótipo de controle inteligente de uma sessão de recarga, desenvolvido com Raspberry Pi Pico e MicroPython.
+O sistema simula os dados de geração e consumo de energia, calcula a potência disponível e determina o estado da recarga:
+autorizada, reduzida ou bloqueada.
+Cada situação é indicada pelos LEDs verde, amarelo e vermelho, enquanto as informações são exibidas em uma tela LCD.
+
+O repositório inclui o código-fonte em arquivos .py (Python) e o arquivo .json da simulação no Wokwi,
+permitindo a execução e a compreensão do projeto. A solução demonstra a integração entre hardware, software,
+processamento de dados e dispositivos de entrada e saída, relacionando-se aos conceitos de Arquitetura de Computadores.
