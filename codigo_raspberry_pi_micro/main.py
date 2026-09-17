@@ -137,7 +137,6 @@ def main():
         leitura_consumo = pot_consumo.read_u16()
 
         energia_gerada = get_pot_wh(leitura_geracao, intervalo_segundos)
-
         energia_consumida = get_pot_wh(leitura_consumo, intervalo_segundos)
 
         energia_disponivel = energia_gerada - energia_consumida
